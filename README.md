@@ -15,7 +15,7 @@ We will use this GitHub repo to share information about the Post-SICSS Research 
 
 ## Venue
 
-All events will take place at ETH Zurich (Haldeneggsteig 4). The room details will be announced here.
+All events will take place at ETH Zurich, IFW building (Haldeneggsteig 4). The room details will be announced here.
 
 ## Preliminary schedule
 
