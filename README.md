@@ -16,19 +16,19 @@ All events will take place at ETH Zurich (Haldeneggsteig 4). The room details wi
 
 ## Preliminary schedule
 
-# Monday
+### Monday
 09:00-12:30: Opening of the Research Workshop; participants give short presentations about themselves & their research interests (see above)
 14:00-17:00: Speed dating, group formation
 17:00-18:00: Guest lecture
 18:00 and later: Apéro somewhere in Zurich
 
-# Tuesday to Thursday
+### Tuesday to Thursday
 On Tue, Wed, and Thu, there will be no official program during the day. We will provide you with a space where you can work on your research proposal with your team. Also, the organizers (Elliott, Malka, and Philine) will be around for feedback on your proposals.
 Every evening (from 17:00 to 18:00) there will be a guest lecture (followed by an optional social activity).
 
 The submission deadline for the research proposal is on Thursday at 13:00 (so that the proposals can be evaluated for the closing ceremony on Friday).
 
-# Friday
+### Friday
 10:30-12:00: Closing ceremony where the participants present their proposals
 After lunch, we might go on a hike around Zurich (depending on the weather).
 
