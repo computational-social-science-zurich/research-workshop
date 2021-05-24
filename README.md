@@ -30,5 +30,6 @@ The submission deadline for the research proposal is on Thursday at 13:00 (so th
 
 ### Friday
 10:30-12:00: Closing ceremony where the participants present their proposals
+
 After lunch, we might go on a hike around Zurich (depending on the weather).
 
