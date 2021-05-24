@@ -28,7 +28,7 @@ Every evening (from 17:00 to 18:00) there will be a guest lecture (followed by a
 
 The submission deadline for the research proposal is on Thursday at 13:00 (so that the proposals can be evaluated for the closing ceremony on Friday).
 
-### Friday
+### Friday
 10:30-12:00: Closing ceremony where the participants present their proposals
 After lunch, we might go on a hike around Zurich (depending on the weather).
 
