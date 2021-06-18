@@ -20,7 +20,8 @@ All events will take place at ETH Zurich, IFW building (Haldeneggsteig 4). We wi
 ## Preliminary schedule
 
 ### Monday
-**Objective**: defining the groups
+
+**Objective**: group formation
 
 - 09:30-09:45: Opening of the Research Workshop; 
 - 09:45-10:30: Participants give short presentations about themselves & their research interests (centralized hybrid session on our centralized [zoom room](https://unisg.zoom.us/j/87496756939?pwd=OUdtakNnVzV6QWtFMWIrUHZlMVJLQT09) 
@@ -28,7 +29,7 @@ All events will take place at ETH Zurich, IFW building (Haldeneggsteig 4). We wi
 - 11:00-12:00: Decentralized brainstorming on the [padlet](https://padlet.com/malkaguillot/uk97x95bgz5w84uq)
 - 12:00-13:00: Lunch
 - 13:00-14:00: Speed dating (X2) 
-- 14:00-17:30: group formation and first discussions (decenteralized: those who want to participate remotely should manifest them on slack so that they can coordinate with the groups)
+- 14:00-17:30: Group formation and first discussions (decenteralized: those who want to participate remotely should indicate this on Slack, in order to coordinate with their groups)
 - 18:00 and later: Apéro somewhere in Zurich
 
 ### Tuesday to Thursday
