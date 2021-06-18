@@ -20,12 +20,16 @@ All events will take place at ETH Zurich, IFW building (Haldeneggsteig 4). We wi
 ## Preliminary schedule
 
 ### Monday
+**Objective**: defining the groups
 
-09:00-12:30: Opening of the Research Workshop; participants give short presentations about themselves & their research interests (see above)
-
-14:00-17:00: Speed dating, group formation
-
-18:00 and later: Apéro somewhere in Zurich
+- 09:30-09:45: Opening of the Research Workshop; 
+- 09:45-10:30: Participants give short presentations about themselves & their research interests (centralized hybrid session on our centralized [zoom room](https://unisg.zoom.us/j/87496756939?pwd=OUdtakNnVzV6QWtFMWIrUHZlMVJLQT09) 
+- 10:30-11:00: Coffee break (offline)
+- 11:00-12:00: Decentralized brainstorming on the [padlet](https://padlet.com/malkaguillot/uk97x95bgz5w84uq)
+- 12:00-13:00: Lunch
+- 13:00-14:00: Speed dating (X2) 
+- 14:00-17:30: group formation and first discussions (decenteralized: those who want to participate remotely should manifest them on slack so that they can coordinate with the groups)
+- 18:00 and later: Apéro somewhere in Zurich
 
 ### Tuesday to Thursday
 
@@ -35,7 +39,6 @@ Every evening (from 17:00 to 18:00) there will be a guest lecture (followed by a
 - Tuesday 22 (17:00-18:00): [Michael Knaus](https://mcknaus.github.io/) (HSG)
 - Wednesday 23 (17:00-18:00): [Nadja Herger](https://nherger.github.io) (Thomson Reuters Labs), Aileen Nielsen (ETH CLE), Milda Norkute (Thomson Reuters Labs)
 - Thursday 24 (17:00-18:00): [Aniket Kesari](https://akesari12.github.io/) (UC Berkeley)
-
 
 The submission deadline for the research proposal is on Thursday at 13:00 (so that the proposals can be evaluated for the closing ceremony on Friday).
 
