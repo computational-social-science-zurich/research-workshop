@@ -39,7 +39,8 @@ Every evening (from 17:00 to 18:00) there will be a guest lecture (followed by a
 
 - Tuesday 22 (17:00-18:00): [Michael Knaus](https://mcknaus.github.io/) (HSG)
   - *Double Machine Learning based Program Evaluation*
-- Wednesday 23 (17:00-18:00): [Nadja Herger](https://nherger.github.io) (Thomson Reuters Labs), Aileen Nielsen (ETH CLE), Milda Norkute (Thomson Reuters Labs)
+- Wednesday 23 (17:00-18:00): [Nadja Herger](https://nherger.github.io) (Thomson Reuters Labs), Aileen Nielsen (ETH CLE), Milda Norkute (Thomson Reuters Labs) on [zoom](https://unisg.zoom.us/j/87496756939?pwd=OUdtakNnVzV6QWtFMWIrUHZlMVJLQT09)
+  - *Deep Learning-Driven Summarization and the Added Benefits of Explainable AI for Legal Tasks*
 - Thursday 24 (17:00-18:00): [Aniket Kesari](https://akesari12.github.io/) (UC Berkeley)
   - *Improving Traffic Safety Through Video Analysis in Jakarta, Indonesia* [paper]( https://arxiv.org/abs/1812.01106)
 
