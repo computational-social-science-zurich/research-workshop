@@ -24,7 +24,7 @@ All events will take place at ETH Zurich, IFW building (Haldeneggsteig 4). We wi
 **Objective**: group formation
 
 - 09:30-09:45: Opening of the Research Workshop; 
-- 09:45-10:30: Participants give short presentations about themselves & their research interests (centralized hybrid session on our centralized [Zoom room](https://unisg.zoom.us/j/87496756939?pwd=OUdtakNnVzV6QWtFMWIrUHZlMVJLQT09) 
+- 09:45-10:30: Participants give short presentations about themselves & their research interests: centralized hybrid session on our [Zoom room](https://unisg.zoom.us/j/87496756939?pwd=OUdtakNnVzV6QWtFMWIrUHZlMVJLQT09) 
 - 10:30-11:00: Coffee break (offline)
 - 11:00-12:00: Speed dating and group debrief
 - 12:00-13:00: Lunch
@@ -44,7 +44,7 @@ Every evening (from 17:00 to 18:00) there will be a guest lecture (followed by a
 - Thursday 24 (17:00-18:00): [Aniket Kesari](https://akesari12.github.io/) (UC Berkeley)
   - *Improving Traffic Safety Through Video Analysis in Jakarta, Indonesia* [paper]( https://arxiv.org/abs/1812.01106)
 
-The submission deadline for the research proposal is on Thursday at 13:00 (so that the proposals can be evaluated for the closing ceremony on Friday).
+**The submission deadline for the research proposal is on Thursday at 13:00** (so that the proposals can be evaluated for the closing ceremony on Friday).
 
 - Thursday 17:30: Apéro at BQM
 
