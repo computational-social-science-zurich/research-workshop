@@ -46,7 +46,12 @@ Every evening (from 17:00 to 18:00) there will be a guest lecture (followed by a
 
 **The submission deadline for the research proposal is on Thursday at 13:00** (so that the proposals can be evaluated for the closing ceremony on Friday).
 
-- Thursday 17:30: Apéro at BQM
+### Additional information for Thursday
+
+- 13:00: Send your proposals to sicss.ethz2021@gmail.com
+- Between 14:30 and 15:00: Assignment of discussants communicated on Slack
+- 17:00: Presentation by Aniket Kesari (see details above)
+- 18:00: Apéro at IFW (snacks will be provided)
 
 ### Friday
 
