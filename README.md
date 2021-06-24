@@ -55,4 +55,4 @@ Every evening (from 17:00 to 18:00) there will be a guest lecture (followed by a
 
 ### Friday
 
-- 10:30-12:00: Closing ceremony where the participants present their proposals
+- 10:40-12:00: Closing ceremony where the participants present their proposals
